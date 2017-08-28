@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HELLO UNITY", "HELLO UNITY.csproj", "{EAE56E5A-1BF6-E46A-A1FA-5A8774DA8C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE56E5A-1BF6-E46A-A1FA-5A8774DA8C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE56E5A-1BF6-E46A-A1FA-5A8774DA8C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE56E5A-1BF6-E46A-A1FA-5A8774DA8C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE56E5A-1BF6-E46A-A1FA-5A8774DA8C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
